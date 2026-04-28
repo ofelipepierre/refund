@@ -68,14 +68,16 @@ Ou acesse direto pelo [GitHub Pages](https://ofelipepierre.github.io/refund).
 
 ## 📁 Estrutura
 
+```
 refund/
 ├── .github/
 │   └── preview.jpg
 ├── img/
-│   └── (ícones SVG das categorias)
+│   └── ícones SVG das categorias
 ├── index.html
 ├── scripts.js
 └── styles.css
+```
 
 <br>
 
